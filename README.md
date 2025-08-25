@@ -12,7 +12,7 @@ Supported devices:
 
 * H5080 Smart Plug
 * H5082 Dual Smart Plug
-* H8056 Smart Plug with Energy Monitoring (no Energy Monitoring as of 2025/08/23)
+* H5086 Smart Plug with Energy Monitoring (no Energy Monitoring as of 2025/08/23)
 
 ## Configuration
 
